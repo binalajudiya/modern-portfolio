@@ -12,7 +12,7 @@ export default function Home() {
         <meta property="og:image" content="" />
         <meta property="og:url" content="" />
         <meta property="og:site_name" content="Binal Ajudiya Portfolio" />
-        <title>Binal Ajudiya Portfolio</title>     
+        <title>Binal Ajudiya Portfolio </title>     
       </Head>
       <></>
     </Fragment>
