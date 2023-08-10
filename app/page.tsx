@@ -15,6 +15,6 @@ export default function Home() {
         <title>Binal Ajudiya Portfolio </title>     
       </Head>
       <></>
-    </Fragment>
+    </Fragment>   
   )
 }
